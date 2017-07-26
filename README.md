@@ -14,7 +14,14 @@ Creating to share the important stuff from a training camp
   * Super Global Variables http://php.net/language.variables.superglobals
   
  ### Day 13
-  * Functions, Parameter types, ..., to be continued
+  * Functions, Parameter types
+  * assert http://php.net/manual/en/function.assert.php
+  * shuffle http://php.net/manual/en/function.shuffle.php
+  * array_slice http://php.net/manual/en/function.array-slice.php
+  * Cyclomatic Complexity https://en.wikipedia.org/wiki/Cyclomatic_complexity
+  * http_response_code http://php.net/manual/en/function.http-response-code.php
+  * header http://php.net/manual/en/function.header.php
+  , ..., to be continued
 
 ## Terminal Commands
   * `which php` - Shows the root directory of your system installed php
@@ -41,6 +48,7 @@ Creating to share the important stuff from a training camp
   * http://phpfig.org/
   * http://www.phptherightway.com/
   * https://github.com/marcelgsantos/learning-oop-in-php
+  * https://www.udemy.com/learn-php-5-and-7-this-way-to-rise-above-and-beyond-competition/ (Suggested by Arturs)
   
 ## Tools
   * https://pastebin.com/
