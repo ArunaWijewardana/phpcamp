@@ -1,6 +1,21 @@
 # phpcamp
 Creating to share the important stuff from a training camp
 
+## Topics that were covered through the bootcamp
+ ### Day 11
+  * Intro to PHP (all the topics in the presentation slide https://www.slideshare.net/bradley.holt/introduction-to-php-5176251?qid=fc6cbf13-f883-470d-ad4a-f968b4194e52&v=&b=&from_search=1 )
+  
+ ### Day 12
+  * Started the common project. Link to git repository : https://github.com/alexniedreacn/bootcamp
+  * Loops - for, do while, while, foreach
+  * include, include_once, require, require_once
+  * Null coalescing operator http://php.net/manual/en/migration70.new-features.php 
+  * MVC - Model View Controller
+  * Super Global Variables http://php.net/language.variables.superglobals
+  
+ ### Day 13
+  * Functions, Parameter types, ..., to be continued
+
 ## Terminal Commands
   * `which php` - Shows the root directory of your system installed php
   * `brew tap homebrew/homebrew-php` - Updates all the package list for php available in brew
