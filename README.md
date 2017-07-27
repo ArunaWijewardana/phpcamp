@@ -1,9 +1,13 @@
 # phpcamp
 Creating to share the important stuff from a training camp
 
+## Goals
+ * 
+
 ## Topics that were covered through the bootcamp
  ### Day 11
   * Intro to PHP (all the topics in the presentation slide https://www.slideshare.net/bradley.holt/introduction-to-php-5176251?qid=fc6cbf13-f883-470d-ad4a-f968b4194e52&v=&b=&from_search=1 )
+  * Classes, Abstract classes & interface
   
  ### Day 12
   * Started the common project. Link to git repository : https://github.com/alexniedreacn/bootcamp
@@ -21,7 +25,12 @@ Creating to share the important stuff from a training camp
   * Cyclomatic Complexity https://en.wikipedia.org/wiki/Cyclomatic_complexity
   * http_response_code http://php.net/manual/en/function.http-response-code.php
   * header http://php.net/manual/en/function.header.php
-  , ..., to be continued
+  
+ ### Day 14
+  * Classes
+  * Static
+  * Construct
+  * , ..., to be continued
 
 ## Terminal Commands
   * `which php` - Shows the root directory of your system installed php
@@ -49,6 +58,9 @@ Creating to share the important stuff from a training camp
   * http://www.phptherightway.com/
   * https://github.com/marcelgsantos/learning-oop-in-php
   * https://www.udemy.com/learn-php-5-and-7-this-way-to-rise-above-and-beyond-competition/ (Suggested by Arturs)
+  * http://overapi.com/php (Suggested by Alvis)
   
 ## Tools
   * https://pastebin.com/
+  * https://paste.ee/
+  * https://paste.ofcode.org
