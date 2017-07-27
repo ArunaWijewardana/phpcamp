@@ -2,12 +2,20 @@
 Creating to share the important stuff from a training camp
 
 ## Goals
- * 
+ * HTTP Request / Response
+ * Composer
+ * SOLID Principles
+ * OOP / MVC
+ * Reusable Components / Framework
+ 
+## Hometasks
+ * Agile
+ * Relational Algebra
 
 ## Topics that were covered through the bootcamp
  ### Day 11
   * Intro to PHP (all the topics in the presentation slide https://www.slideshare.net/bradley.holt/introduction-to-php-5176251?qid=fc6cbf13-f883-470d-ad4a-f968b4194e52&v=&b=&from_search=1 )
-  * Classes, Abstract classes & interface
+  * Classes, Abstract classes & Interface
   
  ### Day 12
   * Started the common project. Link to git repository : https://github.com/alexniedreacn/bootcamp
@@ -30,6 +38,10 @@ Creating to share the important stuff from a training camp
   * Classes
   * Static
   * Construct
+  * call_user_func http://php.net/manual/en/function.call-user-func.php
+  * SOLID https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+  * Dependency Container Injection
+  * SemVer
   * , ..., to be continued
 
 ## Terminal Commands
