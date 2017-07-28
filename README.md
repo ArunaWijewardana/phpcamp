@@ -42,7 +42,17 @@ Creating to share the important stuff from a training camp
   * SOLID https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
   * Dependency Container Injection
   * SemVer
-  * , ..., to be continued
+  
+### Day 15
+  * Git
+  * FQN
+  * Reformat Code in phpStorm
+  * PSR-2 Coding Style Guide http://www.php-fig.org/psr/psr-2/
+  * PSR-4 Autoloading http://www.php-fig.org/psr/psr-4/
+  * // TODO phpStorm recognizeable comment
+  * Persistent layer -> Database
+  * Design Patern - Adaptor
+   , ..., to be continued
 
 ## Terminal Commands
   * `which php` - Shows the root directory of your system installed php
@@ -62,6 +72,19 @@ Creating to share the important stuff from a training camp
   * `php -S localhost:8080` - Starts the server at given url on given port
   * **Ctrl + C** - Stops the server
   * **Ctrl + D** - Exit from Terminal
+  
+## Composer Commands
+  * Installing
+    * Go inside your project directory
+    * `php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"`
+    * `php -r "if (hash_file('SHA384', 'composer-setup.php') === '669656bab3166a7aff8a7506b8cb2d1c292f042046c5a994c43155c0be6190fa0355160742ab2e1c88d40d5be660b410') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"`
+    * `php composer-setup.php`
+    * `php -r "unlink('composer-setup.php');"`
+  * Setting up project
+    * `php composer.phar init`
+    * `php composer.phar install` - Need *composer.lock* to do this. It was created when initializing.
+  * Adding up packages
+    * `php composer.phar require packageName` eg: `php composer.phar require symfony/dependency-injection`
   
 ## Useful links
   * https://3v4l.org/
