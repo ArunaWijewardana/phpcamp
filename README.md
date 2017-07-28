@@ -52,6 +52,9 @@ Creating to share the important stuff from a training camp
   * // TODO phpStorm recognizeable comment
   * Persistent layer -> Database
   * Design Patern - Adaptor
+     * https://github.com/domnikl/DesignPatternsPHP
+     * https://en.wikipedia.org/wiki/Design_Patterns
+  * 
    , ..., to be continued
 
 ## Terminal Commands
